@@ -10,7 +10,9 @@ ini
 Copy
 Edit
 BMI = weight (kg) / [height (m)]²
+
 🔍 Features
+
 Easy-to-use input form for height and weight
 
 Instant BMI result with classification:
